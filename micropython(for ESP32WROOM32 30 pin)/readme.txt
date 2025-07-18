@@ -1,0 +1,1 @@
+Bu fayl espga yuklanishidan avval tahrirlanishga muhtoj. Bunda kamida esp ulanishi rejalashtirilgan wifi nomi va paroli belgilangan joyda yozilishi shart.

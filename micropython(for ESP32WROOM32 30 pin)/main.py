@@ -10,8 +10,8 @@ i2c = I2C(0, scl=Pin(22), sda=Pin(21), freq=100000) # Sizning pinlaringiz
 STM_ADDR = 0x20 # ESP32 dan ko'rinadigan STM32 ning I2C manzili (0x20 << 1)
 
 # Wi-Fi sozlamalari
-SSID = 'SAVDOYI' # Telefoningiz hotspot nomi
-PASSWORD = '74189fbc9bb0' # Telefoningiz hotspot paroli
+SSID = '' # Telefoningiz hotspot nomi
+PASSWORD = '' # Telefoningiz hotspot paroli
 # main.py (ESP32 uchun)
 
 # --- Global o'zgaruvchilar ---
