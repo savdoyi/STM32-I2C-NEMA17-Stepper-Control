@@ -1,0 +1,30 @@
+# STM32CubeIDE tomonidan generatsiya qilingan fayllar va papkalar
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.s
+*.su
+*.lis
+*.lst
+*.bak
+
+# Eclipse va STM32CubeIDE loyihasining sozlamalari va vaqtincha fayllari
+.project
+.cproject
+.mxproject
+.settings/
+.launch
+.toolchain
+
+# Operatsion tizimga xos va umumiy vaqtincha fayllar
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
+*~
